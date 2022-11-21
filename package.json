@@ -1,0 +1,23 @@
+{
+  "name": "ejerciciointroduccion",
+  "version": "1.0.0",
+  "description": "Primer proyecto con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasMedina02/Introduccion-Javascript-Basico.git"
+  },
+  "keywords": [
+    "Node",
+    "Bootcamp"
+  ],
+  "author": "Matias Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasMedina02/Introduccion-Javascript-Basico/issues"
+  },
+  "homepage": "https://github.com/MatiasMedina02/Introduccion-Javascript-Basico#readme"
+}
